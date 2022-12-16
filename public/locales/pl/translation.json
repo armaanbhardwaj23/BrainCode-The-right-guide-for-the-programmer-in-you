@@ -1,0 +1,304 @@
+{
+  "navbar": {
+    "home": "Start",
+    "aboutus": "O\u00a0Nas",
+    "contact": "Kontakt",
+    "login": "Logowanie",
+    "signin": "Rejestracja",
+    "logout": "Wyloguj",
+    "myprofile": "Profil",
+    "mentorprofile": "Profil\u00a0Mentora",
+    "myproject": "Projekty",
+    "myopinions": "Opinie",
+    "notifications": "Powiadomienia",
+    "profile": "Profil",
+    "project": "Projekty",
+    "opinions": "Opinie",
+    "myteam": "Moje\u00a0zespoły",
+    "addteam": "Dodaj\u00a0zespół",
+    "addproject": "Dodaj\u00a0projekt",
+    "teamproject": "Grupowe\u00a0projekty"
+  },
+  "homepage": {
+    "h1": "Zostań Uczniem lub Mentorem!",
+    "button": "Dołącz do Nas!",
+    "text": "Z Nami możesz się uczyć i pomagać"
+  },
+  "aboutus": {
+    "description": "Jesteśmy miejscem, które pozwala Ci sprawdzić swoją praktyczną wiedzę programistyczną. Uzyskaj dobre rady od bardziej doświadczonych programistów lub zostań mentorem, by pomagać innym.",
+    "h1": "Tutaj możesz być:",
+    "mentor": "mentor",
+    "student": "student",
+    "text1": "Pomagaj innym w ich projektach. Twórz zespoły, aby uczyć więcej niż jedną osobę w tym samym czasie.",
+    "text2": "Pokaż swoje indywidualne projekty wybranym mentorom. Dołącz do projektu zespołowego, aby uczyć się razem z innymi."
+  },
+  "contactpage": {
+    "h1": "Bądźmy w kontakcie",
+    "text1": "Twój email",
+    "text2": "Treść wiadomości",
+    "text3": "Dziękujemy za wiadomość!",
+    "emailplace": "Wpisz swój e-mail",
+    "messageplace": "Wpisz swoją wiadomość",
+    "button": "Wyślij wiadomość"
+  },
+  "description": {
+    "part1": "Edytuj <1>src/App.js</1> i zapisz by ponownie wczytać.",
+    "part2": "Ucz się React'a"
+  },
+  "counter_one": "Język zmieniony tylko raz",
+  "counter_few": "Zmieniony jezyk juz {{count}} razy",
+  "counter_many": "Zmieniony jezyk juz {{count}} razy",
+  "footer": {
+    "date": "Dzisiaj jest {{date, DATE_HUGE}}",
+    "date_morning": "Dzień dobry! Dzisiaj jest {{date, DATE_HUGE}} | Miłego dnia!",
+    "date_afternoon": "Witaj! Dzisiaj jest {{date, DATE_HUGE}}",
+    "date_evening": "Dobry wieczór! Dzisiaj jest {{date, DATE_HUGE}}",
+    "createAccount": "Utwórz konto",
+    "forgotPassword": "Przypomnij hasło",
+    "homePage": "Strona głowna",
+    "login": "Strona logowania"
+  },
+  "user": {
+    "email": {
+      "name": "email",
+      "placeholder": "Wpisz swój email",
+      "validation": {
+        "requied": "Email jest wymagany",
+        "format": "Niepoprawny format maila"
+      }
+    },
+    "password": {
+      "name": "hasło",
+      "placeholder": "Wpisz swoje hasło",
+      "validation": {
+        "requied": "Hasło jest wymagane"
+      }
+    }
+  },
+  "registration": {
+    "userName": {
+      "name": "nazwa użytkownika",
+      "placeholder": "Wpisz nazwę użytkownika"
+    },
+    "firstName": {
+      "name": "imię",
+      "placeholder": "Wpisz swoje imię"
+    },
+    "lastName": {
+      "name": "nazwisko",
+      "placeholder": "Wpisz swoje nazwisko"
+    },
+    "email": {
+      "name": "email",
+      "placeholder": "Wpisz swój email"
+    },
+    "password": {
+      "name": "hasło",
+      "placeholder": "Wpisz swoje hasło"
+    },
+    "confirmPassword": {
+      "name": "potwierdź hasło"
+    },
+    "button": {
+      "name": "Wyślij"
+    },
+    "foot": {
+      "login": "Strona logowania",
+      "home": "Strona Główna"
+    },
+    "validation": {
+      "userName": "Nazwa użytkownika jest zbyt krótka",
+      "userNameReq": "Wpisz nazwę użytkownika",
+      "firstName": "Imię jest zbyt krótkie",
+      "lastName": "Nazwisko jest zbyt krótkie",
+      "email": "Email jest zbyt krótki",
+      "emailIn": "Niepoprawny format emaila",
+      "emailReq": "Wpisz email",
+      "passwordLow": "Wymagana jedna mała litera",
+      "passwordUpp": "Wymagana jedna duża litera",
+      "passwordNum": "Wymagana jedna cyfra",
+      "passwordMin": "Hasło musi mieć minimum 8 znaków",
+      "passwordReq": "Wpisz hasło",
+      "confirmPassword": "Hasło musi być takie same"
+    }
+  },
+  "modalText": "Czy na pewno chesz usunąć zespół?",
+  "button": {
+    "login": "Zaloguj",
+    "sendEmail": "Wyślij maila"
+  },
+  "toast": {
+    "login": {
+      "success": "Zalogowano poprawnie!",
+      "error": "Niepoprawne logowanie",
+      "locked": "Musisz najpierw zweryfikować hasło",
+      "notFound": "Niepoprawny email lub hasło",
+      "validation": "Niepoprawne dane logowania"
+    },
+    "registration": {
+      "success": "E-mail weryfikujący został wysłany!",
+      "validation": "Użytkownik o podanej nazwie lub adresie e-mail jest już zarejestrowany",
+      "error": "Rejestracja nie powiodła się"
+    },
+    "sendEmail": {
+      "success": "Mail został wysłany!",
+      "error": "Wysłanie maila nie powiodło się",
+      "notFound": "Nie znaleziono lub nie istnieje taki mail"
+    },
+    "team": {
+      "success": "Brawo dołączyłeś do zespołu!",
+      "successAdd": "Brawo utworzyłeś zespół",
+      "error": "Error spróbuj jeszcze raz",
+      "errorAdd": "Nie udało ci sie utworzyć zespołu",
+      "errorExist": "Error zespół o takiej nazwie istnieje",
+      "errorUsers": "Wystąpił problem z użytkownikami",
+      "notFound": "Nie znaleziono usera bądź projektu",
+      "locked": "Jesteś już zapisany do teamu",
+      "successDelete": "Zespół został usunięty"
+    }
+  },
+  "addNewProject": {
+    "name": "nazwa projektu",
+    "namePlaceholder": "Wpisz nazwę swojego projektu",
+    "mentor": "mentor",
+    "mentorPlaceholder": "Wybierz mentora",
+    "team": "zespół",
+    "teamPlaceholder": "Wybierz zespół",
+    "language": "język programowania",
+    "languagePlaceholder": "Wybierz język programowania",
+    "content": "content",
+    "contentPlaceholder": "Wpisz swój kod lub Github Page",
+    "description": "opis",
+    "descriptionPlaceholder": "Napisz coś o projekcie",
+    "button": "ENTER",
+    "validation": {
+      "name": "Nazwa projektu jest zbyt krótka",
+      "nameReq": "Wpisz nazwę projektu",
+      "mentor": "Wybierz mentora",
+      "content": "Nazwa jest zbyt krótka",
+      "contentReq": "Wpisz content",
+      "description": "Opis jest zbyt krótki",
+      "descriptionReq": "Opisz swój projekt",
+      "language": "Wybierz język(i) programowania",
+      "success": "Twój projekt został pomyślnie dodany",
+      "validation": "Coś poszło nie tak. Spróbuj ponownie",
+      "error": "Błąd"
+    }
+  },
+  "emailVerification": {
+    "login": "Zaloguj się!",
+    "welcome": "Witaj w naszej drużynie!",
+    "verified": "Twój email został pomyślnie zweryfikowany",
+    "canLog": "Teraz możesz się zalogować!"
+  },
+  "profile": {
+    "username": "Nazwa użytkownika",
+    "useremail": "Email",
+    "firstname": "Imię",
+    "lastname": "Nazwisko",
+    "password": "Hasło",
+    "button": "Zapisz",
+    "programming_language": "Język programowania",
+    "button_change_password":"Edytuj"
+  },
+  "team": {
+    "status": "Status",
+    "places": {
+      "name": "Ilość miejsc",
+      "placeholder": "Wybierz ilość miejsc"
+    },
+    "description": "Opis zespołu",
+    "programmingLanguage": "Język programowania",
+    "languageName": "Wybierz język programowania i poziom",
+    "level": "Poziom",
+    "users": "Zespół",
+    "usersPlaceholder": "Dodaj osoby do zespołu",
+    "language": "Język programowania",
+    "languagePlaceholder": "Wybierz język programowania",
+    "teamName": {
+      "name": "Nazwa zespołu",
+      "placeholder": "Wpisz nazwę zespołu",
+      "validation": {
+        "min": "Nazwa zespołu jest za krótka",
+        "max": "Nazwa zespołu jest za długa",
+        "requied": "Nazwa zespołu jest wymagana"
+      }
+    },
+    "closeInformation": "Wybierz ilość miejsc",
+    "closeInformationEnd": "Ilość użytkowników równa się ilości miejsc",
+    "button": {
+      "view": "Pokaż",
+      "joinTeam": "Dołącz",
+      "addTeam": "Dodaj zespół",
+      "add": "+",
+      "delete": "Usuń",
+      "edit": "Edytuj",
+      "projects": "Projekty"
+    }
+  },
+  "status": {
+    "open": "otwarty",
+    "close": "zamknięty"
+  },
+  "project": {
+    "name": "Nazwa:",
+    "language": "Języki programowania:",
+    "individual": "Indywidualne Projekty",
+    "Teams": "Grupy Projektowe",
+    "description": "Opis:",
+    "status": "Status:",
+    "content": "Zawartość:",
+    "button": {
+      "view": "Pokaż",
+      "addNew": "Dodaj nowy projekt",
+      "viewTeam": "Wyświetl grupy",
+      "save": "ZAPISZ",
+      "edit": "Edytuj",
+      "delete": "Usuń!",
+      "close": "Zamknij",
+      "projects": "Projekty",
+      "addNewTeamProject": "Nowy Projekt"
+    }
+  },
+  "setNewPassword": {
+    "title": "Chcesz zmienić hasło?",
+    "title2": "Utwórz nowe hasło",
+    "setOldPassword": "stare hasło",
+    "setOldPasswordPlaceholder": "Wpisz stare hasło",
+    "setNewPassword": "nowe hasło",
+    "setNewPasswordPlaceholder": "Wpisz nowe hasło",
+    "confirmPassword": "potwierdź nowe hasło",
+    "confirmPasswordPlaceholder": "Potwierdź nowe hasło",
+    "button": "Zmień hasło",
+    "button2": "Zapisz",
+    "success": "Twoje hasło zostało pomyślnie zmienione",
+    "badRequest": "Stare hasło zostało wprowadzone niepoprawnie. Spróbuj ponownie!",
+    "error": "Coś poszło nie tak. Spróbuj ponownie"
+  },
+  "opinions": {
+    "button": {
+      "addNew": "Dodaj Nową Opinię",
+      "edit": "Edytuj",
+      "save": "Zapisz"
+    }
+  },
+  "addNewOpinion": {
+    "mentor": "mentor",
+    "mentorPlaceholder": "Wybierz mentora",
+    "username":"nazwa użytkownika",
+    "usernamePlaceholder": "podaj nazwę użytkownika",
+    "content": "opinia",
+    "contentPlaceholder": "Napisz swoją opinię",
+    "button": "DODAJ",
+    "validation": {
+      "name": "Nazwa użytkownika jest zbyt krótka",
+      "nameReq": "Wpisz nazwę użytkownika",
+      "mentor": "Wybierz mentora",
+      "content": "Opinia jest zbyt krótka",
+      "contentReq": "Napisz opinię",
+      "success": "Udało się!",
+      "validation": "Coś poszło nie tak. Spróbuj ponownie",
+      "error": "Błąd"
+    }
+  }
+}

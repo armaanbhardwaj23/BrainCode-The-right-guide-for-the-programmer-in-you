@@ -1,0 +1,308 @@
+{
+  "navbar": {
+    "home": "Home\u00a0Page",
+    "aboutus": "About\u00a0Us",
+    "contact": "Contact",
+    "login": "Log\u00a0In",
+    "signin": "Sign\u00a0In",
+    "logout": "Log\u00a0Out",
+    "myprofile": "My\u00a0profile",
+    "mentorprofile": "Mentor\u00a0profile",
+    "myproject": "User\u00a0project",
+    "myopinions": "My\u00a0opinions",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "project": "Project",
+    "opinions": "Opinions",
+    "myteam": "My\u00a0Teams",
+    "addteam": "Add\u00a0Team",
+    "addproject": "Add\u00a0Project",
+    "teamproject": "Team\u00a0project"
+  },
+  "homepage": {
+    "h1": "Become Student or a Mentor!",
+    "button": "Join Us!",
+    "text": "With Us, You can learn and help"
+  },
+  "404page": {
+    "page": "You didn’t break the Internet, but we can’t find what you are looking for."
+  },
+  "aboutus": {
+    "description": "We are a place that allows you to check your practical programming knowledge. Get good advice from more experienced programmers, or become a mentor to help others.",
+    "h1": "Here you can be:",
+    "mentor": "mentor",
+    "student": "student",
+    "text1": "Help others in Their projects. Create Teams to lern more than one person in the same time.",
+    "text2": "Show your individual projects to selected mentors. Join team project to lern with others."
+  },
+  "contactpage": {
+    "h1": "Get in touch with Us",
+    "text1": "Your email",
+    "text2": "Your message",
+    "text3": "Thanks for joining!",
+    "emailplace": "Type your email",
+    "messageplace": "Type your message",
+    "button": "Send e-mail"
+  },
+  "description": {
+    "part1": "Edit <1>src/App.js</1> and save to reload.",
+    "part2": "Learn React"
+  },
+  "counter_one": "Changed language just once",
+  "counter_other": "Changed language already {{count}} times",
+  "footer": {
+    "date": "Today is {{date, DATE_HUGE}}",
+    "date_morning": "Good morning! Today is {{date, DATE_HUGE}} | Have a nice day!",
+    "date_afternoon": "Good afternoon! It's {{date, DATE_HUGE}}",
+    "date_evening": "Good evening! Today was the {{date, DATE_HUGE}}",
+    "createAccount": "Create Account",
+    "forgotPassword": "Forgot Password",
+    "homePage": "Home Page",
+    "contact": "Contact Page",
+    "login": "Login Page"
+  },
+  "user": {
+    "email": {
+      "name": "email",
+      "placeholder": "Type your email",
+      "validation": {
+        "requied": "Email is required",
+        "format": "Invalid email format"
+      }
+    },
+    "password": {
+      "name": "password",
+      "placeholder": "Type your password",
+      "validation": {
+        "requied": "Password is required"
+      }
+    }
+  },
+  "registration": {
+    "userName": {
+      "name": "user name",
+      "placeholder": "Type your user name"
+    },
+    "firstName": {
+      "name": "first name",
+      "placeholder": "Type your first name"
+    },
+    "lastName": {
+      "name": "last name",
+      "placeholder": "Type your last name"
+    },
+    "email": {
+      "name": "email",
+      "placeholder": "Type your email"
+    },
+    "password": {
+      "name": "password",
+      "placeholder": "Type your password"
+    },
+    "confirmPassword": {
+      "name": "confirm password"
+    },
+    "button": {
+      "name": "Submit"
+    },
+    "foot": {
+      "login": "Login Page",
+      "home": "Home Page"
+    },
+    "validation": {
+      "userName": "Your user name is too short",
+      "userNameReq": "Please enter your user name",
+      "firstName": "Your first name is too short",
+      "lastName": "Your last name is too short",
+      "email": "Your email is too short",
+      "emailIn": "The email is incorrect",
+      "emailReq": "Please enter your email",
+      "passwordLow": "One lowercase required",
+      "passwordUpp": "One uppercase required",
+      "passwordNum": "One number required",
+      "passwordMin": "Minimum 8 characters required",
+      "passwordReq": "Please enter your password",
+      "confirmPassword": "Password must be the same"
+    }
+  },
+  "button": {
+    "login": "Login",
+    "sendEmail": "Send email"
+  },
+  "toast": {
+    "login": {
+      "success": "Successful Login!",
+      "notFound": "Invalid email or password.",
+      "validation": "Incorrect login data",
+      "locked": "You must first confirm the registration.",
+      "error": "Error login"
+    },
+    "registration": {
+      "success": "Verify your email address",
+      "validation": "An account is already registered with your email address",
+      "error": "Registration error"
+    },
+    "sendEmail": {
+      "success": "Successful send email!",
+      "error": "Incorrect send mail",
+      "notFound": "User not found or does not exist"
+    },
+    "team": {
+      "success": "Successful join to team!",
+      "successAdd": "Successful add team!",
+      "error": "Error - no join team ",
+      "errorAdd": "Error create team",
+      "errorExist": "Error team exists",
+      "errorUsers": "Error with users",
+      "notFound": "No user or team found.",
+      "locked": "You are already enrolled",
+      "successDelete": "Successful delete team!"
+    }
+  },
+  "addNewProject": {
+    "name": "project name",
+    "namePlaceholder": "Type your project name",
+    "mentor": "mentor",
+    "mentorPlaceholder": "Choose mentor",
+    "team": "team",
+    "teamPlaceholder": "Choose team",
+    "language": "programming language",
+    "languagePlaceholder": "Choose programming language",
+    "content": "content",
+    "contentPlaceholder": "Type your code or Github Page",
+    "description": "description",
+    "descriptionPlaceholder": "Write something about project",
+    "button": "ENTER",
+    "validation": {
+      "name": "Your project name is too short",
+      "nameReq": "Please enter project's name",
+      "mentor": "Please choose your mentor",
+      "content": "Your content name is too short",
+      "contentReq": "Please enter the content",
+      "description": "Your description is too short",
+      "descriptionReq": "Please enter the description",
+      "language": "Please choose programming language(s)",
+      "success": "Your project has been successfully added",
+      "validation": "Something is wrong. Try again",
+      "error": "Error"
+    }
+  },
+  "emailVerification": {
+    "login": "Log In!",
+    "welcome": "Welcome to Our Team!",
+    "verified": "Your email has been successfully verified",
+    "canLog": "Now You can Log In!"
+  },
+  "profile": {
+    "username": "Name",
+    "useremail": "Email",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "password": "Password",
+    "button": "Save",
+    "programming_language": "Programming language",
+    "button_change_password": "Edit"
+  },
+  "team": {
+    "status": "Status",
+    "places": {
+      "name": "Places",
+      "placeholder": "Choose places"
+    },
+    "description": "Description",
+    "programmingLanguage": "Programming language",
+    "level": "level",
+    "users": "Users",
+    "usersPlaceholder": "Choose users",
+    "language": "Programming language",
+    "languageName": "Choose programming language and level",
+    "languagePlaceholder": "Choose programming language",
+    "teamName": {
+      "name": "Team name",
+      "placeholder": "Enter team name",
+      "validation": {
+        "min": "Team name is too short",
+        "max": "Team name is too long ",
+        "requied": "Team name is required"
+      }
+    },
+    "closeInformation": "First select number of places",
+    "closeInformationEnd": "Number of users equals the number of places",
+    "modalText": "Do you want remove team?",
+    "button": {
+      "view": "View",
+      "joinTeam": "Join Team",
+      "addTeam": "Add new team",
+      "add": "+",
+      "delete": "Delete",
+      "edit": "Edit",
+      "projects": "Projects"
+    }
+  },
+  "status": {
+    "open": "open",
+    "close": "close"
+  },
+  "project": {
+    "name": "Name:",
+    "language": "Programing language:",
+    "individual": "Individual Projects",
+    "Teams": "Project Teams",
+    "description": "Description:",
+    "status": "Status:",
+    "content": "Content:",
+    "button": {
+      "view": "View",
+      "addNew": "Add New Project",
+      "viewTeam": "View Teams",
+      "save": "SAVE",
+      "edit": "Edit",
+      "delete": "Delete!",
+      "close": "Close",
+      "projects": "Projects",
+      "addNewTeamProject": "Add Team Project"
+    }
+  },
+  "setNewPassword": {
+    "title": "Want to change password?",
+    "title2": "Create your new password",
+    "setOldPassword": "set old password",
+    "setOldPasswordPlaceholder": "Type your old password",
+    "setNewPassword": "set new password",
+    "setNewPasswordPlaceholder": "Type your new password",
+    "confirmPassword": "confirm new password",
+    "confirmPasswordPlaceholder": "Confirm new password",
+    "button": "Change password",
+    "button2": "Set new password",
+    "success": "Your password was successfully changed",
+    "badRequest": "Your old password was entered incorrectly. Please try again!",
+    "error": "Something is wrong. Try again"
+  },
+  "opinions": {
+    "button": {
+      "addNew": "Add New Opinion",
+      "edit": "EDIT",
+      "save": "SAVE"
+    }
+  },
+  "addNewOpinion": {
+    "mentor": "mentor",
+    "mentorPlaceholder": "Choose mentor",
+    "username": "username",
+    "usernamePlaceholder": "enter username",
+    "content": "opinion",
+    "contentPlaceholder": "Type your opinion",
+    "button": "ADD",
+    "validation": {
+      "name": "Your username name is too short",
+      "nameReq": "Please enter username",
+      "mentor": "Please choose your mentor",
+      "content": "Your opinion is too short",
+      "contentReq": "Please enter the opinion",
+      "status": "Please choose project's status",
+      "success": "Success",
+      "validation": "Something is wrong. Try again",
+      "error": "Error"
+    }
+  }
+}
